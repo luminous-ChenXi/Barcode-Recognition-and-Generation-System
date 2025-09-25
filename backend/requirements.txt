@@ -1,0 +1,9 @@
+Flask==2.3.3
+Flask-CORS==4.0.0
+opencv-python==4.8.1.78
+pyzbar==0.1.9
+Pillow==9.5.0
+qrcode==7.4.2
+numpy==1.26.0
+python-barcode==0.15.1
+setuptools<81
