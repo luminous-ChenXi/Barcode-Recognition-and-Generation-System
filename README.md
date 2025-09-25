@@ -1,6 +1,7 @@
 # 条码识别与生成系统
 
 一个基于Python Flask后端和Vue 3前端的Web应用，提供条码识别和生成功能。
+实例页面：https://tiaoma.luminouschenxi.com/
 
 ## 功能特性
 
@@ -73,7 +74,7 @@ npm run dev
 
 前端界面将在 http://localhost:3000 启动
 
-### 2. 阿里云服务器部署
+### 2. 云服务器部署
 
 #### 后端部署
 
@@ -296,6 +297,6 @@ chmod +x deploy-server.sh
 
 MIT License
 
-## 联系方式
+## 最后
 
-如有问题或建议，请联系开发团队。
+本项目由Trae和Deepseek辅助创作；开源项目，仅供学习使用，请勿用于商业。
