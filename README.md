@@ -269,7 +269,7 @@ chmod +x deploy-server.sh
 ## 开发说明
 
 ### 环境要求
-- **Python**: 3.8+ 
+- **Python**: Python 3.8+ （推荐3.8-3.10版本）
 - **Node.js**: 14+
 - **操作系统**: Windows/Linux/macOS
 
